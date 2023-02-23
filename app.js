@@ -7,16 +7,16 @@ const reviews = [
     img:
       "https://scontent-mia3-2.xx.fbcdn.net/v/t1.18169-9/16684193_1286909704713161_7777626560673979047_n.jpg?stp=c0.139.539.539a_dst-jpg_s851x315&_nc_cat=105&ccb=1-7&_nc_sid=da31f3&_nc_ohc=aHxEPEg6GPYAX9Yw-X_&_nc_ht=scontent-mia3-2.xx&oh=00_AfAhsXn9_hHZHPS0tq_RE6KGFRjtAP0bT8pWia3eabl6QQ&oe=6411FEE1",
     text:
-      "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      " Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site",
   },
   {
     id: 2,
     name: "Soushiyans Monfared",
     job: "web designer",
     img:
-      "https://scontent-mia3-2.xx.fbcdn.net/v/t39.30808-6/321298081_672200701250773_8628139609933017876_n.jpg?stp=c0.116.1440.1440a_dst-jpg_s851x315&_nc_cat=107&ccb=1-7&_nc_sid=da31f3&_nc_ohc=kMapZG6hBCgAX-osXBb&_nc_ht=scontent-mia3-2.xx&oh=00_AfCh7VrgDn_h_HDa9JOc1wOu1OAko8c6F5XjZQl0alfieQ&oe=63EFC590",
+      "https://i.pinimg.com/736x/66/86/4f/66864ff3069a01cd2b780d30dd3a465e.jpg",
     text:
-      "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
+      "Web developers usually fall under one of three categories: back-end developers, front-end developers, and full-stack developers. Some web developers also work as webmasters. Let's take a closer look at each of these roles. Back-end web developers create the website's structure, write code, and verify the code works.",
   },
   {
     id: 3,
